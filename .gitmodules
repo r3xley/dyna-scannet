@@ -1,0 +1,3 @@
+[submodule "external/shaper"]
+	path = external/shaper
+	url = https://github.com/facebookresearch/ShapeR.git
